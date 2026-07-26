@@ -106,6 +106,10 @@ Open:
 
 http://127.0.0.1:8000/docs
 
+## Screenshot of Swagger UI
+<img width="1117" height="822" alt="swagger" src="https://github.com/user-attachments/assets/3332b77c-1561-4599-b13e-caac932ffdb6" />
+
+
 
 
 ---
